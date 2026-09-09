@@ -32,7 +32,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
         const end = Date.now();
         const responseTime = end - start;
 
-        const text = `*⚡ LOVE-MD SPEED TEST ⚡*\n\n*🚀 Response Time:* \`${responseTime} ms\`\n*✨ Status:* \`Super Fast & Active\`\n*🎈 Host:* \`High Speed Server\`\n\n> *Powered by LOVE-MD*`;
+        const text = `*⚡ 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃 SPEED TEST ⚡*\n\n*🚀 Response Time:* \`${responseTime} ms\`\n*✨ Status:* \`Super Fast & Active\`\n*🎈 Host:* \`High Speed Server\`\n\n> *Powered by LOVE-MD*`;
 
         await conn.sendMessage(from, { 
             text,
@@ -41,8 +41,8 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363426314834573@newsletter',
-                    newsletterName: "LOVE MD",
+                    newsletterJid: '120363430848275148@newsletter',
+                    newsletterName: "𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃",
                     serverMessageId: 143
                 }
             }
@@ -77,7 +77,7 @@ async (conn, mek, m, { from, reply }) => {
 
         // Stylish formatted output
         const msg = `
-*╭┈──〔 ⚡ LOVE-MD SPEED 〕─⊷*
+*╭┈──〔 ⚡ 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃 SPEED 〕─⊷*
 *├▢ 📶 Latency:* \`${ping} ms\`
 *├▢ 🧠 Status:* ${status}
 *├▢ 💫 Mode:* \`Active & Stable\`
