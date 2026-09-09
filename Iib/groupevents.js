@@ -1,4 +1,4 @@
-// Credits JawadTechX - KHAN-MD 💜
+// Credits JawadTechX - BAGGA-SHER-MD 💜
 
 const { isJidGroup } = require('@whiskeysockets/baileys');
 const config = require('../config');
