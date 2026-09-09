@@ -39,7 +39,7 @@ cmd({
         "Meri har khushi ka raaz tum ho. 🤫"
     ];
     const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
-    let msg = `┏━━━━━━━━━━━━━━━━━━┓\n   ❤️ *LOVE MD - ROMANCE* ❤️\n┗━━━━━━━━━━━━━━━━━━┛\n\n✨ ${randomQuote}\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n*Powered by Love MD*`;
+    let msg = `┏━━━━━━━━━━━━━━━━━━┓\n   ❤️ *𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃 - ROMANCE* ❤️\n┗━━━━━━━━━━━━━━━━━━┛\n\n✨ ${randomQuote}\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n*Powered by 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃*`;
     return await conn.sendMessage(m.chat, { text: msg }, { quoted: mek });
 });
 
@@ -72,7 +72,7 @@ cmd({
         "Hi! You're doing great. 🚀", "Hi! Take care. 🌹", "Hi! Talk to you later. 📞", "Hi! Love from Love MD. ❤️"
     ];
     const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
-    let msg = `┏━━━━━━━━━━━━━━━━━━┓\n   👋 *LOVE MD - HI* 👋\n┗━━━━━━━━━━━━━━━━━━┛\n\n✨ ${randomQuote}\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n*Powered by Love MD*`;
+    let msg = `┏━━━━━━━━━━━━━━━━━━┓\n   👋 *𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃 - HI* 👋\n┗━━━━━━━━━━━━━━━━━━┛\n\n✨ ${randomQuote}\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n*Powered by 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃*`;
     return await conn.sendMessage(m.chat, { text: msg }, { quoted: mek });
 });
 
@@ -105,6 +105,6 @@ cmd({
         "Hello! Cheers to new beginnings. 🥂", "Hello! Love MD is here to serve. 👑"
     ];
     const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
-    let msg = `┏━━━━━━━━━━━━━━━━━━┓\n   👋 *LOVE MD - HELLO* 👋\n┗━━━━━━━━━━━━━━━━━━┛\n\n✨ ${randomQuote}\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n*Powered by Love MD*`;
+    let msg = `┏━━━━━━━━━━━━━━━━━━┓\n   👋 *𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃 - HELLO* 👋\n┗━━━━━━━━━━━━━━━━━━┛\n\n✨ ${randomQuote}\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n*Powered by 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃*`;
     return await conn.sendMessage(m.chat, { text: msg }, { quoted: mek });
 });
