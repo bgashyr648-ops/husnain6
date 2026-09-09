@@ -1,5 +1,5 @@
 //---------------------------------------------------------------------------
-//           LOVE-MD - RANDOM INSTAGRAM/STATUS VIDEO COMMAND (.dj)
+//           𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃 - RANDOM INSTAGRAM/STATUS VIDEO COMMAND (.dj)
 //---------------------------------------------------------------------------
 
 const { cmd } = require('../command');
@@ -39,8 +39,8 @@ cmd({
 │ 📌 *Status:* Random Viral Video
 ╰───────────────◆
 
-> 🤖 *Love-MD Bot HD Video*
-> 👑 *Owner:* Bagga Sher MD`;
+> 🤖 *𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃 Bot HD Video*
+> 👑 *Owner:* 𓆩 𝛭𝑅 𝑅𝛯𝛨𝛥𝜨 𓆪`;
 
         // Send the video directly to WhatsApp instantly
         await conn.sendMessage(from, {
