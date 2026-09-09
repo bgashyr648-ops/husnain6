@@ -25,12 +25,12 @@ const config = {
     AUTO_TYPING: 'false',
     ALWAYS_ONLINE: 'false',
     VERSION: '4.0.0 Bᴇᴛᴀ',
-    DESCRIPTION: '*© POWERED BY LOVE-MD*',
+    DESCRIPTION: '*© POWERED BY 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃*',
     ANTI_DELETE_PATH: 'inbox',
     ANTI_DELETE: 'false',
     ANTI_EDIT_PATH: 'inbox',
     ANTI_EDIT: 'false',
-    STICKER_NAME: 'LOVE-MD',
+    STICKER_NAME: '𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃',
     ANTI_LINK: 'true',
     ANTI_LINK_ACTION: 'warn',
     WELCOME: 'false',
@@ -74,12 +74,12 @@ const config = {
 ] ,
     
     // Bot Identity
-    BOT_NAME: 'LOVE-MD',
-    OWNER_NAME: 'BAGGA SHER MD',
+    BOT_NAME: '𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃',
+    OWNER_NAME: '𓆩 𝛭𝑅 𝑅𝛯𝛨𝛥𝜨 𓆪',
     OWNER_NUMBER: '923259855436',
     DEV: '923259855436',
     IK_IMAGE_PATH: './lib/love.jpg',
-    BOT_IMAGE: 'https://ik.imagekit.io/kfyseccyf/SHABAN-1787029811042_7ggJ2EwFz.jpg',
+    BOT_IMAGE: 'https://i.imgur.com/cCNsdxn.jpeg',
     
     // System Configuration
     MAX_RETRIES: 50,
@@ -104,7 +104,7 @@ const config = {
         AUTO_STATUS_SEEN: 'true',
         AUTO_STATUS_REACT: 'false',
         AUTO_STATUS_REPLY: 'false',
-        STATUS_REPLY_MSG: '*_Your status viewed successfully by LOVE-MD 🤖_*',
+        STATUS_REPLY_MSG: '*_Your status viewed successfully by 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃 🤖_*',
         READ_MESSAGE: 'false',
         
         // Auto Actions
@@ -138,15 +138,15 @@ const config = {
         REJECT_MSG: '*Call Rejected Automatically 📵*',
         // Bot Identity
         VERSION: '4.0.0 Bᴇᴛᴀ',
-        OWNER_NAME: 'BAGGA SHER MD',
+        OWNER_NAME: '𓆩 𝛭𝑅 𝑅𝛯𝛨𝛥𝜨 𓆪',
         OWNER_NUMBER: '923259855436',
         DEV: '923259855436',
-        DESCRIPTION: '*© POWERED BY LOVE-MD*',
-        STICKER_NAME: 'LOVE MD',
+        DESCRIPTION: '*© POWERED BY 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃*',
+        STICKER_NAME: '𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃',
         MODE: 'public',
         PREFIX: '.',
-        BOT_NAME: 'LOVE-MD',
-        BOT_IMAGE: 'https://ik.imagekit.io/kfyseccyf/SHABAN-1787029811042_7ggJ2EwFz.jpg',
+        BOT_NAME: '𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃',
+        BOT_IMAGE: 'https://i.imgur.com/cCNsdxn.jpeg',
         
         REACT_EMOJIS: ['😂', '❤️', '🔥', '👏', '😮', '😢', '🤣', '👍', '🎉', '🤔', '🙏', '😍', '😊', '🥰', '💕', '🤩', '✨', '😎', '🥳', '🙌'],
         OWNER_EMOJIS: ['❤️', '🔥', '👑', '⭐', '💎'],
