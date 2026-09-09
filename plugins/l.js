@@ -46,7 +46,7 @@ cmd(
                 mek.chat,
                 { 
                     image: { url: randomPic }, 
-                    caption: `> BAGGA-SHER-MD 🖤` 
+                    caption: `> 𓆩 𝛭𝑅 𝑅𝛯𝛨𝛥𝜨 𓆪 🖤` 
                 },
                 { quoted: mek }
             );
