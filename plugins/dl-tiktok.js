@@ -56,7 +56,7 @@ cmd({
         await conn.sendMessage(from, { 
             video: { url: videoUrl },
             mimetype: 'video/mp4',
-            caption: `🎵 ${title}\n👤 *Author:* ${author}\n⚡ *Username:* @${username}\n\n> *Powered by LOVE-MD ✅*`
+            caption: `🎵 ${title}\n👤 *Author:* ${author}\n⚡ *Username:* @${username}\n\n> *Powered by 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃 ✅*`
         }, { quoted: mek });
 
         await conn.sendMessage(from, { react: { text: '✅', key: m.key } });
@@ -95,7 +95,7 @@ cmd({
         await conn.sendMessage(from, { 
             video: { url: json.result },
             mimetype: 'video/mp4',
-            caption: `🎵 *${meta.title}*\n👤 *Author:* ${meta.author}\n📱 *Username:* @${meta.username}\n🌍 *Region:* ${meta.region}\n\n✨ *Powered by LOVE-MD*`
+            caption: `🎵 *${meta.title}*\n👤 *Author:* ${meta.author}\n📱 *Username:* @${meta.username}\n🌍 *Region:* ${meta.region}\n\n✨ *Powered by 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃*`
         }, { quoted: mek });
 
         await conn.sendMessage(from, { react: { text: '✅', key: m.key } });
@@ -149,7 +149,7 @@ cmd({
 🕒 *Duration:* ${meta.duration}s
 📅 *Published:* ${meta.published}
 
-✨ *Powered By LOVE-MD*
+✨ *Powered By 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃*
         `.trim();
 
         await conn.sendMessage(from, { 
@@ -196,7 +196,7 @@ cmd({
         await conn.sendMessage(from, { 
             video: { url: videoUrl },
             mimetype: 'video/mp4',
-            caption: `🎬 *${title}*\n\n✨ *Powered by LOVE-MD*`
+            caption: `🎬 *${title}*\n\n✨ *Powered by 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃*`
         }, { quoted: mek });
 
         await conn.sendMessage(from, { react: { text: '✅', key: m.key } });
