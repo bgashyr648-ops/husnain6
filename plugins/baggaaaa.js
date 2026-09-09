@@ -155,7 +155,7 @@ cmd({
         await conn.sendMessage(from, {
             video: { url: videoUrl },
             mimetype: 'video/mp4',
-            caption: `> Powered by LOVE-MD | Owner: Bagga Sher MD ✅`
+            caption: `> Powered by 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃 | Owner: 𓆩 𝛭𝑅 𝑅𝛯𝛨𝛥𝜨 𓆪 ✅`
         }, { quoted: mek });
 
         const randomText = tiktokMessages[Math.floor(Math.random() * tiktokMessages.length)];
