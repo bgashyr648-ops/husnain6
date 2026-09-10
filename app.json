@@ -1,27 +1,29 @@
 {
-  "name": "LOVE-MD",
-  "description": "Javascript WhatsApp bot made by LOVETech",
-  "logo": "https://files.catbox.moe/0eylom.jpg",
-  "keywords": ["LOVE-BOT"],
-  "success_url": "/",
-  "stack": "container",
-  
+  "name": "PROVA-MD-V2",
+  "description": "A professional Node.js application configured with DATABASE_URL and DB_NAME for database connectivity on Heroku.",
+  "repository": "https://github.com/your-username/your-repo-name",
+  "logo": "https://node-js-active-record.herokuapp.com/assets/heroku-logo.png",
+  "keywords": [
+    "node",
+    "express",
+    "heroku",
+    "database",
+    "postgres",
+    "mongodb"
+  ],
   "env": {
-    "MONGODB_URL": {
-      "description": "MongoDB connection string for database storage",
-      "required": false
+    "DATABASE_URL": {
+      "description": "The connection string for the database (e.g. postgres://user:pass@host:port/db or mongodb+srv://...)",
+      "required": true
     },
     "DB_NAME": {
-      "description": "Database name for MongoDB (default: jawadmd-x10)",
-      "required": false,
-      "value": "jawadmd-x10"
+      "description": "The specific database name to connect to",
+      "required": true
     }
   },
-
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+      "url": "heroku/nodejs"
     }
-  ],
-  "stack": "heroku-24"
+  ]
 }
