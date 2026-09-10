@@ -134,7 +134,7 @@ module.exports = async function AntiLink(conn, mek, userConfig) {
             return;
         }
 
-        const action = "kick"; //(userConfig.ANTI_LINK_ACTION || //"warn").toLowerCase();
+        const action = "kick"; 
         log(`[AntiLink] Action configured: ${action}`);
 
         const deleteMessage = async () => {
