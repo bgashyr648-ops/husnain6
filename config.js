@@ -138,7 +138,7 @@ const config = {
         REJECT_MSG: '*Call Rejected Automatically 📵*',
         // Bot Identity
         VERSION: '4.0.0 Bᴇᴛᴀ',
-        OWNER_NAME: 'BAGGA SHER MD',
+        OWNER_NAME: '𓆩 𝛭𝑅 𝑅𝛯𝛨𝛥𝜨 𓆪',
         OWNER_NUMBER: '923259855436',
         DEV: '923259855436',
         DESCRIPTION: '*© POWERED BY 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃*',
