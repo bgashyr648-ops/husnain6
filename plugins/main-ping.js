@@ -32,7 +32,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
         const end = Date.now();
         const responseTime = end - start;
 
-        const text = `*⚡ 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃 SPEED TEST ⚡*\n\n*🚀 Response Time:* \`${responseTime} ms\`\n*✨ Status:* \`Super Fast & Active\`\n*🎈 Host:* \`High Speed Server\`\n\n> *Powered by LOVE-MD*`;
+        const text = `*⚡ 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃 SPEED TEST ⚡*\n\n*🚀 Response Time:* \`${responseTime} ms\`\n*✨ Status:* \`Super Fast & Active\`\n*🎈 Host:* \`High Speed Server\`\n\n> *Powered by 𝐁𝐀𝐑𝐁𝐈𝐄 𝐌𝐃*`;
 
         await conn.sendMessage(from, { 
             text,
